@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3632979b-c243-4000-90df-085b11ed66ef" name="Default Changelist" comment="" />
+    <list default="true" id="3632979b-c243-4000-90df-085b11ed66ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dropdown/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/dropdown/js/script.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/formoid/formoid.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/ar-industria-hololens-2-2000x1334.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/background4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/background6-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/ejhrjasl3be-2-1296x972.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/f5vssmqj-ei-2-2000x1500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/hashes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mbr-1-676x451.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mbr-1920x1440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mbr-2-676x380.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/neuronex-122x121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/neuronex-192x191.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/the-entire-unit-weighs-about-128-lbs-823u-3-2000x1500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mbr-switch-arrow/mbr-switch-arrow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mobirise/css/mbr-additional.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/parallax/jarallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/popper/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slidervideo/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/smoothscroll/smooth-scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/socicon/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/socicon/fonts/socicon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tether/tether.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tether/tether.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/theme/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/theme/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/touchswipe/jquery.touch-swipe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vimeoplayer/jquery.mb.vimeo_player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons/mobirise-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons2/mobirise2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons2/mobirise2.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons2/mobirise2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons2/mobirise2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/web/assets/mobirise-icons2/mobirise2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ytplayer/jquery.mb.ytplayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hololens_energy_project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.mobirise" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,22 +70,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/services.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,8 +93,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="465" />
-    <option name="y" value="119" />
+    <option name="x" value="165" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -113,16 +156,22 @@
       <updated>1548242207772</updated>
       <workItem from="1548242209114" duration="747000" />
       <workItem from="1549188120233" duration="2267000" />
+      <workItem from="1552280021314" duration="2162000" />
+      <workItem from="1552689774852" duration="599000" />
+      <workItem from="1553310913301" duration="599000" />
+      <workItem from="1553407160328" duration="599000" />
+      <workItem from="1553491940567" duration="599000" />
+      <workItem from="1563640466254" duration="239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3014000" />
+    <option name="totallyTimeSpent" value="7811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1227608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -134,7 +183,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -157,24 +206,20 @@
         <state relative-caret-position="-6120" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/assets/web/assets/jquery/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services.html">
+    <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
